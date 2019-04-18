@@ -1,6 +1,8 @@
 package sg.edu.rp.c347.p01dailygoal;
 
+import android.content.Context;
 import android.content.Intent;
+import android.content.SharedPreferences;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.View;
@@ -50,5 +52,7 @@ public class MainActivity extends AppCompatActivity {
                 startActivity(i);
             }
         });
+        SharedPreferences prefs = this.getSharedPreferences(
+                "com.example.app", Context.MODE_PRIVATE);
     }
 }
