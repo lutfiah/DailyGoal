@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Daily Goal</string>
+    <string name="textView"><b>Read up on materials before class</b></string>
+    <string name="qnText">Did I achieve this goal today?</string>
+    <string name="textView2"><b>Arrive on time so as not to miss important part of lesson</b></string>
+    <string name="qnText2">Did I achieve this goal?</string>
+    <string name="textView3"><b>Attempt the problem myself</b></string>
+    <string name="qnText3">Did I achieve this goal?</string>
+    <string name="textView4"><b>My personal reflection today</b></string>
+    <string name="button">Ok</string>
+    <string name="radioButton">Yes</string>
+    <string name="radioButton2">No</string>
+    <string name="radioButton3">Yes</string>
+    <string name="radioButton4">No</string>
+    <string name="radioButton5">Yes</string>
+    <string name="radioButton6">No</string>
+    <string name="button2">Close</string>
+</resources>
